@@ -1,2 +1,2 @@
 # Pranav Mittal
-#first site
+#first static site
